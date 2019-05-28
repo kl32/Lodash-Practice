@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kl32/Lodash-Practice#readme",
   "dependencies": {
+    "faker": "^4.1.0",
     "lodash.chunk": "^4.2.0",
     "lodash.reverse": "^4.0.1",
     "lodash.shuffle": "^4.2.0",
